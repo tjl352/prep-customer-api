@@ -53,8 +53,4 @@ public class CustomerServiceTest {
         assertTrue(actual.size() == customers.size());
     }
 
-
-
-
-
 }
